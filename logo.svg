@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 514 514" width="514" height="514">
   <defs>
     <style>
-      .modport-1{fill:var(--transB,#f1f1f0);transform-origin:center;stroke:var(--linkC,#54790d);stroke-width:1px}.drK .modport-1{fill:var(--transB)}.mod-icon .modport-2{fill:rgba(225,20,98,0.9)}.mod-icon .modport-3{fill:rgba(111,202,220,0.9)}.mod-icon .modport-4{fill:rgba(61,184,143,0.9)}.mod-icon .modport-5{fill:rgba(233,169,32,0.9)}.mod-icon{transform:scale(0.9);transform-origin:center}
+      .modport-1{fill:var(--transB,#f1f1f0);transform-origin:center;stroke:var(--linkC,#54790d);stroke-width:2px}.drK .modport-1{fill:var(--transB)}.mod-icon .modport-2{fill:rgba(225,20,98,0.9)}.mod-icon .modport-3{fill:rgba(111,202,220,0.9)}.mod-icon .modport-4{fill:rgba(61,184,143,0.9)}.mod-icon .modport-5{fill:rgba(233,169,32,0.9)}.mod-icon{transform:scale(0.9);transform-origin:center}
     </style>
   </defs>
   <!-- الخلفية الدائرية الخارجية -->
